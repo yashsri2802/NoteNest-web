@@ -23,7 +23,7 @@ Local Storage - Saves notes without a backend
 # 📸 Preview :
 Here’s a glimpse of NoteNest in action:  
 
-![NoteNest Screenshot](Preview-NoteNest.png)
+![NoteNest Screenshot](images/Preview-NoteNest.png)
 
 # 📂 Installation & Usage :
 
