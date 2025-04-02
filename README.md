@@ -28,7 +28,7 @@ Here’s a glimpse of NoteNest in action:
 # 📂 Installation & Usage :
 
 Clone the repository
-git clone https://github.com/your-username/NoteNest-Web.git
+git clone https://github.com/yashsri2802/NoteNest-Web.git
 
 Navigate to the project folder
 cd NoteNest-Web
