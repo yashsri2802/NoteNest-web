@@ -33,11 +33,11 @@ Here’s a glimpse of NoteNest in action:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yashsri2802/NoteNest-Web.git
+   git clone https://github.com/yashsri2802/NoteNest-web.git
 
 2. **Navigate to the project folder**
    ```bash
-   cd NoteNest-Web
+   cd NoteNest-web
 
 3. **Open index.html in your browser**
 
