@@ -245,7 +245,6 @@ button:hover .button-text {
   display: none;
 }
 
-/* 🔥 Background Watermark Image */
 .background {
   position: fixed;
   top: 0;
@@ -253,8 +252,8 @@ button:hover .button-text {
   width: 100vw;
   height: 100vh;
   background: url("background.jpg") no-repeat center center;
-  background-size: contain; /* use 'cover' if you want full screen */
-  opacity: 0.05; /* 💡 change this for more/less visibility */
-  z-index: -1; /* behind all content */
+  background-size: contain; 
+  opacity: 0.05; 
+  z-index: -1; 
   pointer-events: none;
 }
