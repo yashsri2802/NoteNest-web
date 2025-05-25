@@ -31,15 +31,17 @@ Here’s a glimpse of NoteNest in action:
 
 # 📂 Installation & Usage :
 
-Clone the repository
-git clone https://github.com/yashsri2802/NoteNest-Web.git
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yashsri2802/NoteNest-Web.git
 
-Navigate to the project folder
-cd NoteNest-Web
+2. **Navigate to the project folder**
+   ```bash
+   cd NoteNest-Web
 
-Open index.html in your browser
+3. **Open index.html in your browser**
 
-Alternatively, use Live Server in VS Code for a better development experience.
+4. **Alternatively, use Live Server in VS Code for a better development experience.**
 
 # 📌 Future Enhancements: 
 
