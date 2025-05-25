@@ -10,7 +10,7 @@
 
 🔍 Easy to use
 
-# Live Demo :
+# 🔗 Live Demo :
 Check out the live version of NoteNest here:  
 👉 [https://webnotenest.netlify.app](https://webnotenest.netlify.app)
 
