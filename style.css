@@ -32,7 +32,7 @@ body {
 
 /* button styling  */
 .btn-div {
-  position: fixed;
+  position: absolute;
   top: 7rem;
   right: 1rem;
   border-radius: 3px;
@@ -252,8 +252,8 @@ button:hover .button-text {
   width: 100vw;
   height: 100vh;
   background: url("background.jpg") no-repeat center center;
-  background-size: contain; 
-  opacity: 0.05; 
-  z-index: -1; 
+  background-size: contain;
+  opacity: 0.05;
+  z-index: -1;
   pointer-events: none;
 }
